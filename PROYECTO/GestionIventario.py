@@ -51,4 +51,4 @@ def main(): #Funcion principal apenas el programa se ejecute
         except ValueError:
             print("Por favor, ingresa un número válido.")
 
-main()#Se llama al menu principal apenas se ejecute
+main()#Se llama al menu principal
