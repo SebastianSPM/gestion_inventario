@@ -1,5 +1,5 @@
 import os #Se importa la biblioteca os para poder usar el comando clear en linux
-from utils import *
+from src.utils import *
 
 def show_menu(): #Funcion para mostrar el menu al ejecutra el programa
     """Muestra el menú principal al usuario."""
