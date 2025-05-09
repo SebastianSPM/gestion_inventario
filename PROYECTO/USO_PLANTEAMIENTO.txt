@@ -1,0 +1,32 @@
+
+ANALISIS PARA EL SISTEMA DE GESTION DE PRODUCTOS :
+
+
+1.Planteamiento de solucion: Un usuario cualquiera quiere ingresar una serie de datos
+donde pueda calcular la mayoria de estos. Son productos y quiere saber cuanto
+es el valor final al escoger la mayoria de estos.
+
+2.Solucion del problema: Permitir al usuario poder ingresar los productos que
+quiere a travez de un menu donde pueda escoger varias opciones y poder repetir el menu
+para que pueda agregar mas productos y calcular dependiendo de la cantidad.
+
+3.Variables usadas: Se usaron una serie de variables dependiendo de los datos
+que este quiera calcular, tambien diccionario y conversion de este
+
+4.Resultado: Mostrar en pantalla al usuario el producto que agrego, su precio y la cantidad.
+dependiendo de la opcion que seleccione mostrarle diferentes interraciones que el programa
+pueda tener con el y si quiere ver el resultado final lo pueda ver. Finalmente si quiere
+salir y no quiere volver al programa se tendra esta opcion
+
+
+AGREGADO :
+
+Este programa sirve para gestionar todos los productos que el usuario quiera ingresar.
+
+-Se le agrego una interfaz para que el usuario interactue con el programa
+-Podra escoger entre un rango (1,6) para poder ingresar, consultar, actualizar y eliminar producto
+-Se le agrego una opcion para salir del programa
+-Es dinamico porque el usuario puede agregar la mayoria de productos que quiera
+-Se limpia la consola apenas agrega un producto
+
+
